@@ -1,1 +1,7 @@
 # blockchain-developer-bootcamp-final-project
+my idea is a dapp that can be used by theatremakers to fundraise for their productions. 
+maybe there are NFT's which function like tickets... almost like buying the ticket beforehand to help fund the show...? 
+could you bid on the NFT's? and then use the auction money to fund? no, this is not a consensus mechanism. Maybe there are votes for the various productions, each vote is an amount, whichever production has the most votes receives the funding? 
+what is the incentive? NFT which has value already assigned? NFT for each lead actor involved, the costume designer, the music, the director, the artwork? These might attract the attention of collectors or investors with £, this way theatre companies would be reaching outside their regular circle of friends and family to find funding...
+is there another way...? perhaps different productions find funding dependant on initial audience interest...? but this mimics a crowd funding process - not dissimilar to the voting idea...
+the idea stems from a frustration with the way that government funding chooses productions. there are some guidelines but these can also be arbitrary. Since the arts council funding comes from the people's taxes - as in general society - what if general society had more of a say in what ideas come to fruition? these votes could equeate to funding ...somehow. I need to talk it over with someone. I need help. 
